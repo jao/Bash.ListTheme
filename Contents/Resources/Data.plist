@@ -3,13 +3,13 @@
 <plist version="1.0">
 <dict>
 	<key>Away Color</key>
-	<string>139,139,139</string>
+	<string>142,142,142</string>
 	<key>Away Enabled</key>
 	<true/>
 	<key>Away Label Color</key>
 	<string>234,234,214</string>
 	<key>Background As Events</key>
-	<true/>
+	<false/>
 	<key>Background As Status</key>
 	<false/>
 	<key>Background Color</key>
@@ -65,13 +65,13 @@
 	<key>Horizontal Width</key>
 	<integer>640</integer>
 	<key>Idle And Away Color</key>
-	<string>60,60,60</string>
+	<string>80,80,80</string>
 	<key>Idle And Away Enabled</key>
 	<true/>
 	<key>Idle And Away Label Color</key>
 	<string>233,233,214</string>
 	<key>Idle Color</key>
-	<string>113,113,113</string>
+	<string>178,178,178</string>
 	<key>Idle Enabled</key>
 	<true/>
 	<key>Idle Label Color</key>
@@ -81,7 +81,7 @@
 	<key>Mobile Enabled</key>
 	<false/>
 	<key>Offline Color</key>
-	<string>115,115,115</string>
+	<string>36,36,36</string>
 	<key>Offline Enabled</key>
 	<true/>
 	<key>Offline Image Opacity</key>
@@ -97,11 +97,11 @@
 	<key>Show Status Icons</key>
 	<true/>
 	<key>Signed Off Color</key>
-	<string>255,255,255</string>
+	<string>157,14,0</string>
 	<key>Signed Off Enabled</key>
 	<true/>
 	<key>Signed Off Label Color</key>
-	<string>67,67,69</string>
+	<string>26,0,6</string>
 	<key>Signed On Color</key>
 	<string>8,176,0</string>
 	<key>Signed On Enabled</key>
@@ -115,11 +115,11 @@
 	<key>Typing Color</key>
 	<string>209,196,25</string>
 	<key>Typing Enabled</key>
-	<true/>
+	<false/>
 	<key>Typing Label Color</key>
 	<string>47,42,10</string>
 	<key>Unviewed Content Color</key>
-	<string>82,131,246</string>
+	<string>21,62,234</string>
 	<key>Unviewed Content Enabled</key>
 	<true/>
 	<key>Unviewed Content Label Color</key>
