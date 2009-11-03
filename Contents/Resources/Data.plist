@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
 	<key>Away Color</key>
-	<string>60,60,60</string>
+	<string>139,139,139</string>
 	<key>Away Enabled</key>
 	<true/>
 	<key>Away Label Color</key>
@@ -13,11 +13,11 @@
 	<key>Background As Status</key>
 	<false/>
 	<key>Background Color</key>
-	<string>255,255,255</string>
+	<string>0,0,0</string>
 	<key>Background Fade</key>
 	<real>1</real>
 	<key>Background Image Path</key>
-	<string>/Users/evands/Pictures/eye2.tif</string>
+	<string></string>
 	<key>Background Image Style</key>
 	<integer>2</integer>
 	<key>Contact Font</key>
@@ -29,23 +29,23 @@
 	<key>Contact Spacing</key>
 	<integer>1</integer>
 	<key>Contact Status Text Color</key>
-	<string>120,120,120</string>
+	<string>65,65,65</string>
 	<key>Contact Text Alignment</key>
 	<integer>0</integer>
 	<key>Custom Highlight Enabled</key>
-	<false/>
+	<true/>
 	<key>Fade Offline Images</key>
 	<true/>
 	<key>Grid Color</key>
-	<string>235,242,254</string>
+	<string>18,18,18</string>
 	<key>Grid Enabled</key>
-	<true/>
+	<false/>
 	<key>Group Background</key>
-	<string>83,142,213,204</string>
+	<string>100,80,80,80</string>
 	<key>Group Background Gradient</key>
-	<string>83,142,213,204</string>
+	<string>100,80,80,80</string>
 	<key>Group Font</key>
-	<string>Copperplate,12</string>
+	<string>Monaco,12</string>
 	<key>Group Gradient</key>
 	<true/>
 	<key>Group Inverted Text Color</key>
@@ -58,6 +58,8 @@
 	<integer>0</integer>
 	<key>Group Text Color</key>
 	<string>255,255,255</string>
+	<key>Highlight Color</key>
+	<string>54,52,50</string>
 	<key>Horizontal Autosizing</key>
 	<true/>
 	<key>Horizontal Width</key>
@@ -69,11 +71,15 @@
 	<key>Idle And Away Label Color</key>
 	<string>233,233,214</string>
 	<key>Idle Color</key>
-	<string>59,59,59</string>
+	<string>113,113,113</string>
 	<key>Idle Enabled</key>
 	<true/>
 	<key>Idle Label Color</key>
 	<string>234,234,234</string>
+	<key>Mobile Color</key>
+	<string>80,34,61</string>
+	<key>Mobile Enabled</key>
+	<false/>
 	<key>Offline Color</key>
 	<string>115,115,115</string>
 	<key>Offline Enabled</key>
@@ -83,7 +89,7 @@
 	<key>Offline Label Color</key>
 	<string>240,240,240</string>
 	<key>Online Color</key>
-	<string>0,0,0</string>
+	<string>255,255,255</string>
 	<key>Online Enabled</key>
 	<true/>
 	<key>Online Label Color</key>
@@ -95,29 +101,29 @@
 	<key>Signed Off Enabled</key>
 	<true/>
 	<key>Signed Off Label Color</key>
-	<string>177,178,182</string>
+	<string>67,67,69</string>
 	<key>Signed On Color</key>
-	<string>255,255,255</string>
+	<string>8,176,0</string>
 	<key>Signed On Enabled</key>
 	<true/>
 	<key>Signed On Label Color</key>
-	<string>88,173,36</string>
+	<string>14,29,5</string>
 	<key>Status Icon Position</key>
 	<integer>3</integer>
 	<key>Status Label Opacity</key>
 	<real>1</real>
 	<key>Typing Color</key>
-	<string>255,255,255</string>
+	<string>209,196,25</string>
 	<key>Typing Enabled</key>
-	<false/>
+	<true/>
 	<key>Typing Label Color</key>
-	<string>213,194,47</string>
+	<string>47,42,10</string>
 	<key>Unviewed Content Color</key>
-	<string>255,255,255</string>
+	<string>82,131,246</string>
 	<key>Unviewed Content Enabled</key>
 	<true/>
 	<key>Unviewed Content Label Color</key>
-	<string>83,141,212</string>
+	<string>18,32,48</string>
 	<key>Use Background Image</key>
 	<false/>
 	<key>Vertical Autosizing</key>
